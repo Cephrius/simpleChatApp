@@ -125,3 +125,21 @@ body {
 .form .link a:hover{
     text-decoration: underline;
 }
+
+/* users area CSS code */
+
+.users {
+    padding: 25px 30px;
+}
+
+.users header {
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+    justify-content: space-between;
+    border: 1px solid #e6e6e6;
+}
+
+.user header .content img{
+    height: ;
+}
